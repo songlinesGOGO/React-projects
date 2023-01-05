@@ -1,2 +1,2 @@
-# React-projects
-Repository for React.js and related projects
+# React-projects: Tic-Tac
+Repository for Tic-Tac project created using React.js
